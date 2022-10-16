@@ -1,4 +1,4 @@
-### Excel_Project 
+### Space Mission Analysis
 
 The following project was created to analyze all space missions conducted between 1957 - 2022.
 
